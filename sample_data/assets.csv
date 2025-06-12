@@ -1,0 +1,6 @@
+id,asset_tag,name,category,location,purchase_date,warranty_until,assigned_to,department_id,status
+1,GEN-100,Generator GNT-100,Power Equipment,Warehouse A,2020-01-15,2025-01-15,e1f1a7e1-2002-4c00-8000-000000000004,d1f1a7e1-1001-4c00-8000-000000000004,In Use
+2,LTP-200,Laptop Dell Latitude 5420,IT Equipment,IT Room,2022-03-01,2024-03-01,e1f1a7e1-2002-4c00-8000-000000000001,d1f1a7e1-1001-4c00-8000-000000000001,In Use
+3,PRT-300,Printer HP LaserJet,Office Equipment,Finance Dept,2021-05-20,2024-05-20,e1f1a7e1-2002-4c00-8000-000000000003,d1f1a7e1-1001-4c00-8000-000000000003,In Use
+4,DESK-400,Office Desk Standard,Furniture,HR Dept,2019-11-05,2023-11-05,e1f1a7e1-2002-4c00-8000-000000000002,d1f1a7e1-1001-4c00-8000-000000000002,In Use
+5,SWCH-500,Network Switch 48-Port,Networking,Server Room,2023-01-10,2026-01-10,,d1f1a7e1-1001-4c00-8000-000000000001,Under Maintenance

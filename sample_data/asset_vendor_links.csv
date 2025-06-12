@@ -1,0 +1,4 @@
+asset_id,vendor_id,service_type,contract_start,contract_end
+1,8b4f312e-a6a0-4c9d-a921-c5b8f60dff3e,Maintenance,2023-01-01,2024-01-01
+2,b1a1c1d1-e2f3-4a5b-8c9d-0e1f2a3b4c5d,Repair,2022-06-15,2023-06-15
+3,c2b2d2e2-f4a5-6b7c-8d9e-1f2a3b4c5d6e,Support,2024-03-01,2025-03-01

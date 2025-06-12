@@ -1,1 +1,13 @@
 .env
+venv/
+.venv/
+
+#python cahe files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore FAISS vector store files (optional)
+*.faiss
+faiss_index/

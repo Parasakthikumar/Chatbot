@@ -1,0 +1,6 @@
+id,asset_id,service_date,issue_reported,action_taken,cost,serviced_by
+1,1,2023-05-01,Fuel leakage,Replaced fuel pipe,1500.0,PowerCorp Technician
+2,2,2024-02-15,Keyboard not working,Replaced keyboard,1200.0,TechTraders Service
+3,3,2023-11-20,Toner empty,Replaced toner cartridge,800.0,PrintPro Staff
+4,4,2022-08-10,Drawer jammed,Fixed drawer mechanism,600.0,In-house
+5,5,2024-03-12,Network dropout,Updated firmware,1000.0,TechTraders Service
